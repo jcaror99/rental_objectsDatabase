@@ -1,0 +1,7 @@
+CREATE TABLE
+    SEC.USERS (
+        USER_ID INT,
+        NAME VARCHAR(500),
+        PASSWORD VARCHAR(500),
+        PRIMARY KEY (USER_ID)
+    )
